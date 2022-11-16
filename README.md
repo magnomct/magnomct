@@ -24,8 +24,12 @@
   <img align="center" alt="Carlos-Amazon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
-<div> 
-  ![Snake animation](https://github.com/magnomct/magnomct/blob/output/github-contribution-grid-snake.svg) 
+##
+
+<div>
+
+  ![Snake animation](https://github.com/magnomct/magnomct/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 <!--
