@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Carlos Magno Galindo
 
  - Hoje trabalho com gerenciamento de servidores e serviços 🔭 
- - Estou me especializando em cloud computing e devops 🌱
+ - Estou sempre me especializando em cloud computing e devops 🌱
+ - https://www.linkedin.com/in/carlosmagnogcs/
  - Pronouns: Ele/Dele 😁
 
 <div align="center">
@@ -21,7 +22,7 @@
   <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Carlos-Kube" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Carlos-GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Carlos-Amazon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Carlos-Amazon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ##
