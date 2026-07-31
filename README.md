@@ -50,7 +50,3 @@ Sou um profissional focado em **Cloud Computing, DevOps e Infraestrutura**. Tenh
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/magnomct/magnomct/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-```
-
-Com essa alteração, o seu perfil vai carregar instantaneamente, sem nenhum ícone quebrado, destacando perfeitamente suas competências técnicas e a animação da cobrinha!
