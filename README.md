@@ -8,13 +8,7 @@ Sou um profissional focado em **Cloud Computing, DevOps e Infraestrutura**. Tenh
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/carlosmagnogcs/)
 - 😄 Pronomes: Ele/Dele
 
-<div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=magnomct&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/magnomct)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=magnomct&layout=compact&langs_count=7&theme=github_dark)](https://github.com/magnomct)
-
-</div>
+<br>
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
@@ -39,7 +33,7 @@ Sou um profissional focado em **Cloud Computing, DevOps e Infraestrutura**. Tenh
 </div>
 <br>
 
-**Linguagens & Front-End**<br>
+**Linguagens & Desenvolvimento**<br>
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="C#" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
@@ -56,3 +50,7 @@ Sou um profissional focado em **Cloud Computing, DevOps e Infraestrutura**. Tenh
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/magnomct/magnomct/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+```
+
+Com essa alteração, o seu perfil vai carregar instantaneamente, sem nenhum ícone quebrado, destacando perfeitamente suas competências técnicas e a animação da cobrinha!
