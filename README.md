@@ -8,17 +8,13 @@ Sou um profissional focado em **Cloud Computing, DevOps e Infraestrutura**. Tenh
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/carlosmagnogcs/)
 - 😄 Pronomes: Ele/Dele
 
-<br>
-
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=magnomct&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnomct&layout=compact&langs_count=7&theme=github_dark" alt="Top Linguagens" />
-  <br>
-</div>
 
-<br>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=magnomct&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/magnomct)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=magnomct&layout=compact&langs_count=7&theme=github_dark)](https://github.com/magnomct)
+
+</div>
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
