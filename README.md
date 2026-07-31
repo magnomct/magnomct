@@ -11,10 +11,11 @@ Sou um profissional focado em **Cloud Computing, DevOps e Infraestrutura**. Tenh
 <br>
 
 <div align="center">
-  <a href="https://github.com/magnomct">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=magnomct&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnomct&layout=compact&langs_count=7&theme=github_dark" alt="Top Linguagens"/>
-  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=magnomct&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnomct&layout=compact&langs_count=7&theme=github_dark" alt="Top Linguagens" />
+  <br>
 </div>
 
 <br>
