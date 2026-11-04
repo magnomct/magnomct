@@ -1,6 +1,6 @@
 <div align="center">
 
-# Carlos Magno Galindo
+# Carlos Magno Cordeiro
 
 ### Cloud Engineer | SRE & DevOps | AI Architecture (AIOps)
 
